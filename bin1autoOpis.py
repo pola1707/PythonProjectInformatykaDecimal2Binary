@@ -1,0 +1,1 @@
+print(bin(137)) #Wywołanie funkcji Pythona zamieniającej liczbę z dziesiętną na binarną
